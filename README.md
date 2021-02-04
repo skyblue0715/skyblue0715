@@ -1,5 +1,5 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) 
- <h3 align="center">A passionate developer from korea</h3>
+ <h3 align="center">A passionate developer from korea Woo Chung Il</h3>
  
 |   기간	|    구분 | 기관/장소 |   내용	|
 |:-:	|:-:	|:-:	|:-:	|
