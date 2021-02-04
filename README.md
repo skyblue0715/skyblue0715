@@ -1,3 +1,5 @@
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) 
+ |   기간	|    구분 | 기관/장소 |   내용	|
 |:-:	|:-:	|:-:	|:-:	|
 |  2017.06 ~ 2017.12 	|   교육이수내역	|  그린컴퓨터아트학원 	|   디지털컨버전스(JAVA기반 응용SW엔지니어링)양성훈련과정	|
 |  2020.07 ~ 2021.01 	|   교육이수내역	|   예담직업전문학교(대구)	|  디지털컨버전스 기반 Java 개발자 양성과정 	|
