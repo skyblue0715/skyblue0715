@@ -1,4 +1,8 @@
-### Hi there 👋
+|:-:	|:-:	|:-:	|:-:	|
+|  2017.06 ~ 2017.12 	|   교육이수내역	|  그린컴퓨터아트학원 	|   디지털컨버전스(JAVA기반 응용SW엔지니어링)양성훈련과정	|
+|  2020.07 ~ 2021.01 	|   교육이수내역	|   예담직업전문학교(대구)	|  디지털컨버전스 기반 Java 개발자 양성과정 	|
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyblue0715&show_icons=true&theme=radical&hide=prs,stars)
 
 <!--
 **skyblue0715/skyblue0715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
