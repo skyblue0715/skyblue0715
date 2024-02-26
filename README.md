@@ -5,7 +5,7 @@
 |:-:	|:-:	|:-:	|:-:	|
 |  2017.06 ~ 2017.12 	|   교육이수내역	|  그린컴퓨터아트학원 	|   디지털컨버전스(JAVA기반 응용SW엔지니어링)양성훈련과정	|
 |  2020.07 ~ 2021.01 	|   교육이수내역	|   예담직업전문학교(대구)	|  디지털컨버전스 기반 Java 개발자 양성과정 	|
-
+|  2021.03 ~  	|   재직	|   디케이비엠시/서울 선정릉역	|  Salesforce 컨설팅 회사/SI/SM 	|
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyblue0715&show_icons=true&theme=radical&hide=prs,stars)
 
 <h3 align="left">Languages and Tools:</h3>
